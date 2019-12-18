@@ -1,0 +1,96 @@
+/* Navbar */
+.navbar {
+    position: relative;
+    z-index: 1;
+}
+
+.navbar-brand {
+    font-family: Viga;
+    font-size: 32px;
+}
+
+.navbar .container .navbar-nav a {
+    font-weight: 500;
+}
+
+/* Jumbotron */
+.jumbotron {
+    background-image: url(img/con1.jpg);
+    background-size: cover;
+    height: 320px;
+    text-align: center;
+}
+
+/* Content */
+.menu h2 {
+    font-family: Dancing Script;
+    font-weight: 1000;
+    font-size: 72px;
+    padding: 30px;
+}
+
+.menuContent img {
+    height: 400px;
+}
+
+.menuContent p {
+    text-align: center;
+    font-family: Viga;
+}
+
+.menuContent .text {
+    text-align: center;
+    color: #ACACAC;
+    font-family: Gelasio;
+}
+
+.menuContent .card {
+    margin-bottom: 40px;
+    border: none;
+}
+
+.menuContent img {
+    border-radius: 40px;
+}
+
+/* Footer */
+.footer {
+    margin-top: 100px;
+}
+
+.footer p {
+    color: #ACACAC;
+    font-size: 18px;
+}
+
+/* DESKTOP VERSION */
+@media (min-width: 992px) {
+    .navbar-brand, .nav-link {
+        color: snow !important;
+        text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.7);
+    }
+
+    .nav-link {
+        text-transform: uppercase;
+        margin-right: 32px;
+    }
+
+    .nav-link:hover::after {
+        content: '';
+        display: block;
+        border-bottom: 3px solid #0B63DC;
+        width: 50%;
+        margin: auto;
+        padding-bottom: 5px;
+        margin-bottom: -8px;
+    }
+
+    .jumbotron {
+        margin-top: -75px;
+        height: 510px;
+    }
+
+    .jumbotron .row video {
+        padding: 30px;
+    }
+}
