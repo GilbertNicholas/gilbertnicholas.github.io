@@ -11,6 +11,13 @@ This project emphasize the design, UI and UX for website, so there is no back-en
 # Link to Website
 https://gilbertnicholas.github.io/
 
+# Sneak Peek
+<img src="home1.png"><br>
+<img src="home2.png"><br>
+<img src="about1.PNG"><br>
+<img src="about2.PNG"><br>
+<img src="menu1.PNG"><br>
+
 # Tech Used
 <ul>
   <li>HTML</li>
