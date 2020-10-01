@@ -14,9 +14,9 @@ https://gilbertnicholas.github.io/
 # Sneak Peek
 <img src="home1.png"><br>
 <img src="home2.png"><br>
-<img src="about1.PNG"><br>
-<img src="about2.PNG"><br>
-<img src="menu1.PNG"><br>
+<img src="about1.png"><br>
+<img src="about2.png"><br>
+<img src="menu1.png"><br>
 
 # Tech Used
 <ul>
